@@ -1,6 +1,5 @@
 # da_sql_api_project
-## API-SQL project
-from Alexandra Persina, Michael Hoch, Hans Reimer and me.
+API-SQL team project from Alexandra Persina, Michael Hoch, Hans Reimer and me.
 In this project we combined our SQL, Python and API skills and used them in combination with each other.
 
 ## Task Overview:
