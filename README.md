@@ -12,8 +12,8 @@ Weather event: Hurricane Harvey in 2017
 
 
 ## Data:
-1. Flights data from August and September 2017.
-2. Weather data (API) from August and September 2017.
+1. Flights data (csv file from transtats, we get it already from neufische) from August and September 2017.
+2. Weather data (API from meteostat) from August and September 2017.
 
 ## Hypotheses:
 1. Can we see hurricane Harvey in the weather and flights data? 
