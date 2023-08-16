@@ -6,6 +6,7 @@ In this project we combined our SQL, Python and API skills and used them in comb
 Our task is to find a situation where the weather has impacted on flight cancellations and use this to contribute some knowledge about how different weather affects flights in different cities.
 
 Weather event: Hurricane Harvey in 2017
+
 <img width="452" alt="Picture 1" src="https://github.com/avtrebs/da_sql_api_project/assets/130662824/0039a558-425f-476a-b11f-0d4f5f93d10b">
 
 
