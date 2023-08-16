@@ -7,7 +7,7 @@ Our task is to find a situation where the weather has impacted on flight cancell
 
 Weather event: Hurricane Harvey in 2017
 
-<img width="452" alt="Picture 1" src="https://github.com/avtrebs/da_sql_api_project/assets/130662824/0039a558-425f-476a-b11f-0d4f5f93d10b">
+<img width="452" alt="Picture 1" src="[https://github.com/avtrebs/da_sql_api_project/assets/130662824/0039a558-425f-476a-b11f-0d4f5f93d10b](https://github.com/avtrebs/da_sql_api_project/blob/main/Picture%201.png)">
 
 
 
